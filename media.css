@@ -1,0 +1,387 @@
+ /* (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+    .dom{
+        width: 100%;
+    }
+    .prod-text{
+        padding: 30px 0;
+       background: #f6e1c5; 
+       border-radius: 8px;
+       width: 80%;
+       position: relative;
+       left: 100px;
+       
+     } 
+     .text-2{
+        letter-spacing: normal;
+    }
+    .text-1{
+       font-size: 13px;
+       margin-left: -90px;
+   }
+   .prod-text-1{
+    width: 99%;
+    position: relative;
+    
+    left: 10px;   
+   
+  
+ }
+ .text-3{
+    font-size: medium;
+    margin-left: -30px;
+}
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .dom{
+        width: 100%;
+    }
+    .notre-dom{
+        background:#e6a756;
+        margin-top: 100px; 
+        padding: 70px 70px;
+    }
+    .prod-text{
+        padding: 30px 0;
+       background: #f6e1c5; 
+       border-radius: 8px;
+       width: 60%;
+       position: relative;
+       left: 360px;
+       
+     } 
+     .text-2{
+        letter-spacing: normal;
+    }
+    .text-1{
+       font-size: 13px;
+       margin-left: -90px;
+   }
+   .prod-text-1{
+    width: 90%;
+       
+   }
+
+ 
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .dom{
+        width: 100%;
+    }
+    .dom-text{
+        margin-top: 30px;  
+        
+       }
+       .notre-dom{
+        background:#e6a756;
+        margin-top: 100px; 
+        padding: 80px 80px;
+    }
+    .prod-text{
+        padding: 30px 0;
+       background: #f6e1c5; 
+       border-radius: 8px;
+       width: 30%;
+       position: relative;
+       left: 700px;
+       top: 40px;
+     } 
+     .prod-image{
+         width: 80%;
+         margin-left: 100px;
+     }
+     .text-2{
+         letter-spacing: normal;
+     }
+     .text-1{
+        font-size: medium;
+        margin-left: -50px;
+    }
+    .pro-para{
+        width: 50%;
+        position: relative;
+        top: -110px;
+        left: 50px;
+         
+       }
+    .prod-text-1{
+        width: 60%;
+        position: relative;
+        top: 30px;
+        left: 50px;   
+       }
+       .text-3{
+        font-size: medium;
+        margin-left: -90px;
+    }
+    .text-4{
+        font-size: 35px;
+       
+    }
+    .pro-pain{
+       
+        width: 50%;
+        position: relative;
+        top: -90px;
+        left: 480px;
+      }
+       .pro-farine{
+        width: 50%;
+        position: relative;
+        top: -110px;
+        left: 50px;
+         
+       }
+   }
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    .dom{
+        width: 70%;
+        margin-left: 120px;
+    }
+    .dom-text{
+       position: absolute;   
+       bottom: -250px; 
+       margin-left: 20px;
+       width: 30%;
+      }
+      .dom-buton button{
+        height: 70px;
+       position: absolute;
+       left: 105px;
+        
+    }
+    .notre-dom{
+        background:#e6a756;
+        margin-top: 100px; 
+        padding: 80px 250px;
+    }
+    .img-env{
+        width: 90%;
+        margin-left: 50px;
+    }
+    .text-env{
+        width: 58%; 
+        position: relative; 
+        left: 300px;
+        top: -160px;
+        
+       
+     }
+     .prod-text{
+         padding: 30px 0;
+        background: #f6e1c5; 
+        border-radius: 8px;
+        width: 30%;
+        position: relative;
+        left: 900px;
+        top: 40px;
+      }
+      .pro-para{
+        width: 50%;
+        position: relative;
+        top: -110px;
+        left: 70px;
+         
+       }
+       .prod-text-1{
+       width: 50%;
+       position: relative;
+       top: 30px;
+       left: 70px;
+        
+      }
+      .pro-pain{
+       
+        width: 50%;
+        position: relative;
+        top: -90px;
+        left: 480px;
+      }
+      .prod-text-3{
+        width: 70%;
+        position: relative;
+        top: 30px;
+        left: 240px
+      }
+      .pro-farine{
+        width: 50%;
+        position: relative;
+        top: -110px;
+        left: 70px;
+         
+       }
+       .right{
+        margin-left: -90px;
+    }
+    .left{
+        margin-left: 220px;
+    }
+    .right-1,.right-3,.right-4{
+        margin-left: -90px;
+    }
+    .left-1, .left-3, .left-4{
+        margin-left: 180px;
+    }
+    .right-2{
+        margin-left: -90px;
+    }
+    .left-2{
+        margin-left: 210px;
+    }
+    .right-6{
+        margin-left: -90px;
+    }
+    .left-6{
+        margin-left: 210px;
+    }
+    .right-7{
+        margin-left: -90px;
+    }
+    .left-7{
+        margin-left: 210px;
+    }
+    .right-5{
+        margin-left: -90px;
+    }
+    .left-5{
+        margin-left: 190px;
+    }
+    .hr{
+        width: 52%;
+        
+        background:#e6a756;
+        margin-left: 120px;
+    }
+   }
+   
+/* // X-Large devices (large desktops, 1400px and up) */
+   @media (min-width: 1400px) {
+       .dom{
+           width: 70%;
+       }
+       .dom-text{
+        position: absolute;   
+        bottom: 100px; 
+        margin-left: 20px;
+        width: 30%;
+        
+       }
+       .dom-buton button{
+         height: 70px;
+        position: absolute;
+        left: 105px;
+         
+     }
+     .notre-dom{
+        background:#e6a756;
+        margin-top: 100px; 
+        padding: 80px 250px;
+    }
+    .img-env{
+        width: 90%;
+        margin-left: 50px;
+    }
+    .text-env{
+       width: 58%;      
+       position: relative; 
+       left: 300px;
+       top: -160px;
+       
+         
+    }
+    .prod-text{
+        padding: 30px 0;
+       background: #f6e1c5; 
+       border-radius: 8px;
+       width: 30%;
+       position: relative;
+       left: 900px;
+       top: 40px;
+     } 
+      
+     .pro-para{
+        width: 50%;
+        position: relative;
+        top: -110px;
+        left: 70px;
+         
+       }
+       .prod-text-1{
+        width: 50%;
+        position: relative;
+        top: 30px;
+        left: 70px;
+         
+       }
+       .pro-pain{
+       
+        width: 50%;
+        position: relative;
+        top: -90px;
+        left: 480px;
+      }
+      .prod-text-3{
+        width: 70%;
+        position: relative;
+        top: 30px;
+        left: 240px
+      }
+      .pro-farine{
+        width: 50%;
+        position: relative;
+        top: -110px;
+        left: 70px;
+         
+       }
+       .right{
+        margin-left: -90px;
+    }
+    .left{
+        margin-left: 220px;
+    }
+    .right-1,.right-3,.right-4{
+        margin-left: -90px;
+    }
+    .left-1, .left-3, .left-4{
+        margin-left: 180px;
+    }
+    .right-2{
+        margin-left: -90px;
+    }
+    .left-2{
+        margin-left: 210px;
+    }
+    .right-6{
+        margin-left: -90px;
+    }
+    .left-6{
+        margin-left: 210px;
+    }
+    .right-7{
+        margin-left: -90px;
+    }
+    .left-7{
+        margin-left: 210px;
+    }
+    .right-5{
+        margin-left: -90px;
+    }
+    .left-5{
+        margin-left: 190px;
+    }
+    .hr{
+        width: 52%;
+        
+        background:#e6a756;
+        margin-left: 120px;
+    }
+      
+   }
+     
+

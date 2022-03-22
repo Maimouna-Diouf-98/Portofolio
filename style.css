@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:linear-gradient(rgba(47, 23, 15, 0.45), rgba( 47, 23, 15, 0.45)), url(./img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+/* ==============header=========================== */
+.titre{
+    padding: 100px 0;
+}
+.titre .titre-theme{
+    font-size:  35px;
+    color: rgba(230,167,86, 1);
+}
+.titre .bas{
+    font-size:75px ;
+    color: #fff ;
+    opacity: calc(0.7);
+    letter-spacing: 5px;
+}
+/* ==============nav=========================== */
+.navbar{
+    background-color:rgba(47, 23, 15, 0.8) ;
+    padding: 5px 0;
+} 
+.navbar-brand{
+    font-size:  25px;
+    color: rgba(230,167,86, 1)!important;
+}
+.nav-item{
+    padding: 0 20px;
+}
+.navbar-nav .nav-link{
+   color: #fff !important;
+   padding: 20px 0;
+   font-weight: 500;
+   opacity: calc(0.7);
+   
+}
+
+/* ===================Domicile====================== */
+.dom{
+   border-radius: 15px;
+}
+.dom-text{
+    background: #f6e1c5; 
+    border-radius: 8px;
+    padding: 0 30px;      
+  }
+  .fw-bold{
+    font-size:  20px;
+    
+   
+}
+.fw-lighter{
+    font-size:45px ;
+    
+    opacity: calc(0.8);
+    letter-spacing: 2px;
+}
+.dom-buton button{
+    background: #e6a756;
+    height: 50px;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    
+}
+.notre{
+    padding: 10px 10px;
+    border: 5px solid #e9ad5e;
+    border-radius: 7px;
+}
+
+.notre-dom{
+    
+    background:#e6a756;
+    margin-top: 100px; 
+}
+.notre-domi{
+    background: #f6e1c5;
+    border: 5px  solid #f6e1c5;
+  
+    border-radius: 7px;
+    padding: 35px 35px;
+}
+.notre-domi h2{
+    font-size: 20px;
+}
+.after{
+   font-size: 90px;
+   font-weight: lighter;
+   opacity: 0.8;
+}
+
+/* ===================Domicile====================== */
+#footer{
+    background:#2f170fE6;
+   color: #f6e1c5;
+   margin-top: 30px ;
+   padding: 20px 0;
+}
+.dom-footer{
+    padding-top: 30px;
+}
+/* ===================environ==================== */
+.img-env{
+    border-radius: 9px;
+}
+.text-env{
+    background: #f6e1c5; 
+    border-radius: 8px;
+    padding:  30px 30px;      
+  }
+  /* ===================produit==================== */
+  .prod-text{
+    background: #f6e1c5; 
+    border-radius: 8px;
+    
+  }
+  
+ .text-1{
+     font-size: medium;
+     margin-left: -80px;
+ }
+ .pro-para{
+    background: #f6e1c5; 
+    border-radius: 8px;
+    
+  }
+  .prod-text-1{
+    background: #f6e1c5; 
+    border-radius: 8px;
+    padding: 20px 0;
+  }
+
+.pro-pain{
+    background: #f6e1c5; 
+    border-radius: 8px; 
+  }
+  .prod-text-3{
+    background: #f6e1c5; 
+    border-radius: 8px;
+    padding: 20px 0; 
+  }
+  .text-5{
+    font-size: large;
+    margin-left: -600px;   
+  }
+  .pro-farine{
+    background: #f6e1c5; 
+    border-radius: 8px; 
+  }
+  .liste li{
+list-style-type: none;
+  }
+ .right-6,.left-6{
+     color: #e6a756;
+ }
+  
+
+  
+  
